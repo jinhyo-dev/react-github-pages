@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/https/proj-aurora.github.io/react-github-pages/static/css/main.073c9b0a.css",
-    "main.js": "/https/proj-aurora.github.io/react-github-pages/static/js/main.ecc12a30.js",
+    "main.css": "/https/proj-aurora.github.io/react-github-pages/static/css/main.cf853b82.css",
+    "main.js": "/https/proj-aurora.github.io/react-github-pages/static/js/main.772793ff.js",
     "static/js/787.a58a7cd6.chunk.js": "/https/proj-aurora.github.io/react-github-pages/static/js/787.a58a7cd6.chunk.js",
-    "static/media/logo.svg": "/https/proj-aurora.github.io/react-github-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/https/proj-aurora.github.io/react-github-pages/index.html",
-    "main.073c9b0a.css.map": "/https/proj-aurora.github.io/react-github-pages/static/css/main.073c9b0a.css.map",
-    "main.ecc12a30.js.map": "/https/proj-aurora.github.io/react-github-pages/static/js/main.ecc12a30.js.map",
+    "main.cf853b82.css.map": "/https/proj-aurora.github.io/react-github-pages/static/css/main.cf853b82.css.map",
+    "main.772793ff.js.map": "/https/proj-aurora.github.io/react-github-pages/static/js/main.772793ff.js.map",
     "787.a58a7cd6.chunk.js.map": "/https/proj-aurora.github.io/react-github-pages/static/js/787.a58a7cd6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ecc12a30.js"
+    "static/css/main.cf853b82.css",
+    "static/js/main.772793ff.js"
   ]
 }
