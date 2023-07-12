@@ -18,9 +18,9 @@ export const homeMD = '# Aurora (Monitoring System) - Team Pixel\n' +
   '\n' +
   '|  구분  | 이름  |                                                                      사진                                                                       |         Mail          |              Github              |   role    |\n' +
   '|:----:|:---:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|:--------------------------------:|:---------:|\n' +
-  '|  팀장  | 김진효 | <img src="https://user-images.githubusercontent.com/86733620/175867409-88daa0dd-5022-42ce-b322-2b215ce2a08e.jpg" width="100%" height="100%"/> |   admin@jinhyo.dev    |  https://github.com/jinhyo-dev   | Front-end |\n' +
-  '|  팀원  | 김성현 |     <img src="https://cdn.discordapp.com/attachments/935776183688245341/1128796818885586994/KakaoTalk_Image_2023-07-13-05-15-44.png">         |  pumdie77@gmail.com   | https://github.com/HYUN-8265 | Back-end  |\n' +
-  '|  팀원  | 윤서준 |                                                                                                                                               |  me@designed.network  |  https://github.com/designed-re   |   Agent   |\n' +
+  '|  팀장  | 김진효 | <img src="https://user-images.githubusercontent.com/86733620/175867409-88daa0dd-5022-42ce-b322-2b215ce2a08e.jpg" style="width: 50%"/> |   admin@jinhyo.dev    |  https://github.com/jinhyo-dev   | Front-end |\n' +
+  '|  팀원  | 김성현 |     <img src="https://cdn.discordapp.com/attachments/935776183688245341/1128796818885586994/KakaoTalk_Image_2023-07-13-05-15-44.png" style="width: 50%">         |  pumdie77@gmail.com   | https://github.com/HYUN-8265 | Back-end  |\n' +
+  '|  팀원  | 윤서준 |       <img src="https://cdn.discordapp.com/attachments/1081034221432340665/1128829356970614834/image.png" style="width: 50%"> |  me@designed.network  |  https://github.com/designed-re   |   Agent   |\n' +
   '\n' +
   '## 3. 사용기술\n' +
   '\n' +
@@ -71,6 +71,9 @@ export const homeMD = '# Aurora (Monitoring System) - Team Pixel\n' +
   '  * 모니터링 시스템의 생명은 바로 그래프입니다. Chart.js는 container 부터 tooltip, legend, axis, line, bar 모든 것들이 컴포넌트의 형태로 제공되었고 이를 자유롭게 조합해서 사용하는 것이 가장 큰 장점이었습니다. \n' +
   '\n' +
   '\n' +
+  '<img src="https://cdn.discordapp.com/attachments/935776183688245341/1128830825664872448/image.png">\n<br/><br/>' +
+  '<img src="https://cdn.discordapp.com/attachments/935776183688245341/1128831408958345326/image.png">\n' +
+  '\n' +
   '### Back-end\n' +
   '\n' +
   '-----\n' +
@@ -88,7 +91,7 @@ export const homeMD = '# Aurora (Monitoring System) - Team Pixel\n' +
   '\n' +
   '### Architecture\n' +
   '\n' +
-  '<img src="https://private-user-images.githubusercontent.com/84500352/253055366-bf156535-59d5-4b9b-bf0e-471a4e85968a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg5MTk2ODk3LCJuYmYiOjE2ODkxOTY1OTcsInBhdGgiOiIvODQ1MDAzNTIvMjUzMDU1MzY2LWJmMTU2NTM1LTU5ZDUtNGI5Yi1iZjBlLTQ3MWE0ZTg1OTY4YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNzEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDcxMlQyMTE2MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNjkyM2QyZDhhZGJmMTdmYmZiNTgxNTc2MTIzMmI3MmEwYzYxNDQ2NjczNDNkZWE0MWM1YzUyNjI0YTNlNTk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WsFki0M-Px-E_esOHtb0CJzoQnzhaxiQ614PO7amHWc\n"/>' +
+  '<img src="https://cdn.discordapp.com/attachments/935776183688245341/1128826632673710090/253055366-bf156535-59d5-4b9b-bf0e-471a4e85968a.png"/>' +
   '\n' +
   '### Agent\n' +
   '\n' +
