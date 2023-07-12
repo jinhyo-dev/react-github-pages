@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-github-pages/static/css/main.48068b82.css",
-    "main.js": "/react-github-pages/static/js/main.e6928362.js",
+    "main.css": "/react-github-pages/static/css/main.eb3b9027.css",
+    "main.js": "/react-github-pages/static/js/main.a4c8effd.js",
     "static/js/787.a58a7cd6.chunk.js": "/react-github-pages/static/js/787.a58a7cd6.chunk.js",
-    "static/media/Aurora-Main-Background.jpg": "/react-github-pages/static/media/Aurora-Main-Background.2c35c165e70228ee76e4.jpg",
+    "static/media/Aurora.svg": "/react-github-pages/static/media/Aurora.0d15f7c1bc98b4f14f9830dafeb943c3.svg",
     "index.html": "/react-github-pages/index.html",
-    "main.48068b82.css.map": "/react-github-pages/static/css/main.48068b82.css.map",
-    "main.e6928362.js.map": "/react-github-pages/static/js/main.e6928362.js.map",
+    "main.eb3b9027.css.map": "/react-github-pages/static/css/main.eb3b9027.css.map",
+    "main.a4c8effd.js.map": "/react-github-pages/static/js/main.a4c8effd.js.map",
     "787.a58a7cd6.chunk.js.map": "/react-github-pages/static/js/787.a58a7cd6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48068b82.css",
-    "static/js/main.e6928362.js"
+    "static/css/main.eb3b9027.css",
+    "static/js/main.a4c8effd.js"
   ]
 }
