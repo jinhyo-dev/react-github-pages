@@ -15,7 +15,7 @@ code {
 main {
   padding: 0;
   box-sizing: border-box;
-  background-image: url('https://raw.githubusercontent.com/proj-aurora/Aurora-Monitoring-Frontend/master/src/assets/images/Aurora-Main-Background.jpg?token=GHSAT0AAAAAACE6RC6RRBEXC6LE3XBDONAAZFO6RAA');
+  background-image: url('../public/Aurora-Main-Background.jpg');
   width: 100%;
   height: 100vh;
   background-size: cover;
