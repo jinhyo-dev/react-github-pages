@@ -7,7 +7,7 @@ import {EditorContainer} from "./style";
 const App = () => {
   return (
     <main>
-      <Header active={'home'}/>
+      <Header/>
       <EditorContainer data-color-mode={'light'}>
         <MDEditor.Markdown
           source={homeMD}
